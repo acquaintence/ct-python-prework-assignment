@@ -5,8 +5,6 @@
 def hello_name(user_name):
     print("hello_" + user_name + "!")
 
-hello_name("Jenn")
-
 
 # Question 2:
 # Write a python function, first_odds that prints the odd numbers from 1-100 and returns nothing.
@@ -14,8 +12,6 @@ hello_name("Jenn")
 def first_odds():
     for i in range(1,100,2):
         print(i)
-
-first_odds()
 
 
 # Question 3
